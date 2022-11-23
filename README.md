@@ -2,7 +2,7 @@
 - Reverse Engineerig
 - C++\qt, c#, vb.net, python
 
-### Freelancer Team for Gsm challange
+### Freelancer Team for Gsm challenge
 - unpack, devirtualize 
 - protect project
 - Analysis and rewrite
