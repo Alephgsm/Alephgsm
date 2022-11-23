@@ -1,5 +1,5 @@
 ### Gsm Alphabet Team
-- Reverse Engineerig
+- Reverse Engineering
 - C++\qt, c#, vb.net, python
 
 ### Freelancer Team for Gsm challenge
