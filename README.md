@@ -1,7 +1,7 @@
 ### Gsm Alphabet Team
 - Mobile Security Researchers
 - Freelancer Team for Gsm challenge
-- 
+
 ### reverse engineering service
 - unpack (devirtualize & deobfus)
 - Analysis
