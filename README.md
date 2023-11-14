@@ -1,12 +1,14 @@
 ### Gsm Alphabet Team
-- Reverse Engineering
-- C++\qt, c#, vb.net, python
+- Mobile Security Researchers
+- Freelancer Team for Gsm challenge
+- 
+### reverse engineering service
+- unpack (devirtualize & deobfus)
+- Analysis
+- etc ...
 
-### Freelancer Team for Gsm challenge
-- unpack, devirtualize 
-- protect project
-- Analysis and rewrite
-- convert programming language
+### Programming service
+- C, c++\QT, Python, C#, *.NET
 
 ### Solution
 For get last news join our channel in telegram and follow our website 
