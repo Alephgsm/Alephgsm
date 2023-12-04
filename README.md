@@ -13,5 +13,8 @@
 ### Solution
 For get last news join our channel in telegram and follow our website 
 <p><a href="https://t.me/Alephgsm">Telegram Channel</a></p>
-Skype : live:.cid.7a1d7ecfbc2df424
 <p><a href="https://alephgsm.com/">Gsm Alphabet</a></p>
+
+## Contact US:
+Skype : live:.cid.7a1d7ecfbc2df424
+Telegram: https://t.me/GsmCoder
