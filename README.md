@@ -11,7 +11,8 @@
 - C, c++\QT, Python, C#, *.NET, android , web
 
 ### Solution
-For get last news join our channel in telegram and follow our website 
+For get last news join our channel in telegram and follow our website
+
 Telegram:
 <p><a href="https://t.me/Alephgsm">Gsm alphabet Telegram Channel</a></p>
 <p><a href="https://t.me/DevirtualizeME">UnpackME Telegram Channel</a></p>
