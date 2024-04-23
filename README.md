@@ -2,8 +2,8 @@
 - Mobile Security Researchers
 - Freelancer Team (programming , security challenge ,  Gsm challenge)
 
-### reverse engineering service
-- unpack (devirtualize & deobfus)
+### RE Service
+- Unpack (devirtualize & deobfus)
 - Analysis
 - etc ...
 
