@@ -1,6 +1,6 @@
 ### Gsm Alphabet Team
 - Mobile Security Researchers
-- Freelancer Team for Gsm challenge
+- Freelancer Team (programming , security challenge ,  Gsm challenge)
 
 ### reverse engineering service
 - unpack (devirtualize & deobfus)
@@ -8,14 +8,16 @@
 - etc ...
 
 ### Programming service
-- C, c++\QT, Python, C#, *.NET
+- C, c++\QT, Python, C#, *.NET, android , web
 
 ### Solution
 For get last news join our channel in telegram and follow our website 
-<p><a href="https://t.me/Alephgsm">Telegram Channel</a></p>
-<p><a href="https://alephgsm.com/">Gsm Alphabet</a></p>
+Telegram:
+<p><a href="https://t.me/Alephgsm">Gsm alphabet Telegram Channel</a></p>
+<p><a href="https://t.me/DevirtualizeME">UnpackME Telegram Channel</a></p>
+Web:
+<p><a href="https://alephgsm.com/">Gsm Alphabet website</a></p>
+<p><a href="https://apps.alephgsm.com/">Gsm tools and solution download</a></p>
 
 ## Contact US:
-Skype : live:.cid.7a1d7ecfbc2df424
-
 Telegram: https://t.me/GsmCoder
