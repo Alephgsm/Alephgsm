@@ -1,6 +1,6 @@
 ### Gsm Alphabet Team
-- Mobile Security Researchers
-- Freelancer Team (programming , security challenge ,  Gsm challenge)
+- **Mobile** **Security Researchers**
+- **Freelance** Team (**programming** , **RE** challenge ,  **Gsm challenge**)
 
 ### RE Service
 - Unpack (devirtualize & deobfus)
