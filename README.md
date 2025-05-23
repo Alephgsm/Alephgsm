@@ -15,10 +15,8 @@ For get last news join our channel in telegram and follow our website
 
 Telegram:
 <p><a href="https://t.me/Alephgsm">Gsm alphabet Telegram Channel</a></p>
-<p><a href="https://t.me/DevirtualizeME">UnpackME Telegram Channel</a></p>
 Web:
 <p><a href="https://alephgsm.com/">Gsm Alphabet website</a></p>
-<p><a href="https://apps.alephgsm.com/">Gsm tools and solution download</a></p>
 
 ## Contact US:
 Telegram: https://t.me/GsmCoder
